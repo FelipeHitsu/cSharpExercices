@@ -1,0 +1,13 @@
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.exe
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.deps.json
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.runtimeconfig.json
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.runtimeconfig.dev.json
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.dll
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\bin\Debug\netcoreapp3.1\ExercitandoDedos.pdb
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.csprojAssemblyReference.cache
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.AssemblyInfoInputs.cache
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.AssemblyInfo.cs
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.csproj.CoreCompileInputs.cache
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.dll
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.pdb
+C:\Users\felipe.santos\source\repos\ExercitandoDedos\ExercitandoDedos\obj\Debug\netcoreapp3.1\ExercitandoDedos.genruntimeconfig.cache
